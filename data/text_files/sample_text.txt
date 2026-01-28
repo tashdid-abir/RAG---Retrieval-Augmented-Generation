@@ -1,0 +1,9 @@
+author:John Doe
+title:Introduction to Machine Learning
+category:Technology
+year:2024
+pages:320
+publisher:Tech Publications
+isbn:978-1-23456-789-0
+language:English
+content:Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed. This book covers supervised learning, unsupervised learning, deep learning, neural networks, and practical applications in various domains.
