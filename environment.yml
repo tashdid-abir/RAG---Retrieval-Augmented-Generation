@@ -1,0 +1,17 @@
+name: RAG
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - langchain
+  - langchain-core
+  - langchain-community
+  - pypdf
+  - tqdm
+  - sentence-transformers
+  - faiss-cpu
+  - chromadb
+  - pip
+  - pip:
+    - pymupdf
